@@ -18,6 +18,12 @@ Connect with me : yy2176126@gmail.com
 * 🚀 Creator of public open-source study repositories for code documentation and sharing.
 * 📫 How to reach me: **yy2176126@gmail.com**[span_2](start_span)[span_2](end_span)
 
+### 👨‍💻 About Me
+* 🏫 I'm a student currently studying in Class 10[span_0](start_span)[span_0](end_span).
+* 💻 Developing core technical fluencies in web development, HTML, CSS, and version control.
+* 🚀 Creator of public open-source study repositories for code documentation and sharing.
+* 📫 How to reach me: **yy21
+
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -39,10 +45,19 @@ Connect with me : yy2176126@gmail.com
 
 ---
 
+### 🐍 Contribution Snake Game Animation
+*(Many famous profiles feature a snake eating your contribution squares!)*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
 ### 🌟 Connect with Me
 <p align="center">
   <a href="mailto:yy2176126@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yuvraj-Yadav-2903&color=blue&style=flat-square" alt="Profile Views" />
+</p>
