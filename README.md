@@ -61,6 +61,4 @@ Connect with me : yy2176126@gmail.com
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Yuvraj-Yadav-2903&color=blue&style=flat-square" alt="Profile Views" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuvraj-Yadav-2903&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=4" alt="GitHub Trophies" />
-</p>
+
