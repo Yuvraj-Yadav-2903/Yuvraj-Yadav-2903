@@ -13,13 +13,13 @@ Connect with me : yy2176126@gmail.com
 ---
 
 ### 👨‍💻 About Me
-* 🏫 I'm a student currently studying in Class 10[span_1](start_span)[span_1](end_span).
+* 🏫 I'm a student currently studying in Class 10
 
 * 🚀 Creator of public open-source study repositories for code documentation and sharing.
 * 📫 How to reach me: **yy2176126@gmail.com**[span_2](start_span)[span_2](end_span)
 
 ### 👨‍💻 About Me
-* 🏫 I'm a student currently studying in Class 10[span_0](start_span)[span_0](end_span).
+* 🏫 I'm a student currently studying in Class 10
 * 💻 Developing core technical fluencies in web development, HTML, CSS, and version control.
 * 🚀 Creator of public open-source study repositories for code documentation and sharing.
 * 📫 How to reach me: **yy21
